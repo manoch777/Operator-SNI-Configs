@@ -5,4 +5,9 @@ certum.pl, neshan.org, subkade.ir, gifpey.info, shaadbin.ir, uupload.ir, letsenc
 
 # Operator-SNI-Configs
 # Operator-SNI-Configs
-hgfkjh
+1
+3
+4
+6
+7
+9
