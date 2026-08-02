@@ -7,6 +7,4 @@ certum.pl, neshan.org, subkade.ir, gifpey.info, shaadbin.ir, uupload.ir, letsenc
 # Operator-SNI-Confi
 
 3
-2
-5
-4
+hjk
