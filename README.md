@@ -9,5 +9,3 @@ certum.pl, neshan.org, subkade.ir, gifpey.info, shaadbin.ir, uupload.ir, letsenc
 2
 3
 6
-5
-gh
